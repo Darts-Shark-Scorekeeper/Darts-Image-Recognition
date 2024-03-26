@@ -1,5 +1,4 @@
 import 'package:darts_ai_scoreboard/camera/navigation.dart';
-import 'package:darts_ai_scoreboard/home/home_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
